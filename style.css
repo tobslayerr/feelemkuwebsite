@@ -597,7 +597,7 @@ body {
     color: #333;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1040px) {
    
     .thumbnail {
         flex-wrap: wrap;

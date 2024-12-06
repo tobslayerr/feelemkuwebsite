@@ -627,6 +627,17 @@ body {
         font-size: 15px;
     }
 
+    .thumbnail {
+        flex-wrap: wrap; 
+        justify-content: center; 
+        bottom: 15px;
+    }
+
+    .thumbnail .item {
+        width: 120px; 
+        height: 160px; 
+    }
+    
     .carousel .list .item .title {
         font-size: 4em; 
     }
